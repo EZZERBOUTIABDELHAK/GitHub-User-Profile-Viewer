@@ -14,5 +14,5 @@ A simple web application that allows users to search for GitHub profiles and vie
 - JavaScript (Fetch API)
 
 ---
-Made with ❤️ by [EZZERBOUTI ABDEL-HAK]
+Made with ❤️ by EZZERBOUTI ABDEL-HAK
 
